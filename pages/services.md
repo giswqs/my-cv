@@ -29,6 +29,7 @@ Dr. Doe serves the academic community through editorial roles, proposal review, 
 | Period | Role |
 |--------|------|
 | 2026--present | Faculty Search Committee Member |
+| 2026--present | Faculty Search Committee Member |
 | 2025--present | Graduate Admissions Committee Chair |
 | 2024--present | Curriculum Committee Member |
 | 2023--present | Seminar Series Organizer |
