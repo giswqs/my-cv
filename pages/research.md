@@ -42,6 +42,8 @@ Dr. Doe's research focuses on advancing open-source data science through machine
 
 **J. Doe**, J. Smith, A. Johnson (2026). "Deep learning for geospatial analysis." *Journal of Data Science*, 15(3), 123--145. [https://doi.org/10.1234/example1](https://doi.org/10.1234/example1)
 
+**J. Doe**, J. Smith, A. Johnson (2026). "Deep learning for geospatial analysis." *Journal of Data Science*, 15(3), 123--145. [https://doi.org/10.1234/example1](https://doi.org/10.1234/example1)
+
 A. Johnson, **J. Doe** (2026). "Scalable cloud computing for large datasets." *IEEE Transactions on Big Data*, 8(2), 456--470. [https://doi.org/10.1234/example2](https://doi.org/10.1234/example2)
 
 :::

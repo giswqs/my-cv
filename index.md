@@ -128,6 +128,7 @@ Latest updates and milestones
 
 ## Recent News
 
+- **2026-04-10** - MyST CV is a tool for creating CVs using MyST Markdown. It is a simple tool that allows you to create CVs using MyST Markdown. (see blog post [MyST CV](blog/myst-cv))
 - **2026-04-01** - Launched personal website with MyST Markdown
 - **2026-03-15** - Published new paper on machine learning
 - **2026-02-01** - Released version 2.0 of open-source project
