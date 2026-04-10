@@ -2,7 +2,7 @@
 title: "Getting Started with MyST Markdown for Academic Websites"
 date: 2026-04-01
 authors:
-  - name: Jane Doe
+  - name: Qiusheng Wu
     email: jane.doe@example.com
 description: A guide to building academic websites with MyST Markdown, including CV PDF generation, blog support, and automated deployment.
 tags:

@@ -245,21 +245,21 @@ def gen_preamble():
 
 #show: resume.with(
   author: (
-    firstname: "Jane",
-    lastname: "Doe",
-    email: "jane.doe@example.com",
+    firstname: "Qiusheng",
+    lastname: "Wu",
+    email: "qiusheng.wu@example.com",
     phone: "(+1) 234-567-8901",
-    homepage: "https://example.com",
-    github: "username",
+    homepage: "https://gishub.org",
+    github: "giswqs",
     address: "123 Science Building, Example University, Anytown, ST 12345",
     positions: (
-      "Assistant Professor",
+      "Associate Professor",
       "Data Scientist",
     ),
     custom: (
       (text: "username", icon: "twitter", link: "https://twitter.com/username"),
-      (text: "Jane Doe", icon: "linkedin", link: "https://www.linkedin.com/in/username"),
-      (text: "Jane Doe", icon: "google-scholar", link: "https://scholar.google.com"),
+      (text: "Qiusheng Wu", icon: "linkedin", link: "https://www.linkedin.com/in/username"),
+      (text: "Qiusheng Wu", icon: "google-scholar", link: "https://scholar.google.com"),
       (text: "0000-0000-0000-0000", icon: "orcid", link: "https://orcid.org/0000-0000-0000-0000"),
     ),
   ),
@@ -276,7 +276,7 @@ def gen_preamble():
 #set heading(bookmarked: true)
 
 // Set PDF document title
-#set document(title: "Jane Doe - CV")"""
+#set document(title: "Qiusheng Wu - CV")"""
 
 
 def gen_education(about):

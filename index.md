@@ -1,7 +1,7 @@
 ---
-title: Jane Doe
-subtitle: Open-Source Software Engineer & Data Scientist
-description: Jane Doe, Assistant Professor at Example University, builds open-source tools for data science and machine learning.
+title: Qiusheng Wu
+subtitle: Associate Professor & Amazon Scholar
+description: Qiusheng Wu, Assistant Professor at Example University, builds open-source tools for data science and machine learning.
 # thumbnail: images/profile-thumbnail.webp
 ---
 
@@ -11,7 +11,7 @@ description: Jane Doe, Assistant Professor at Example University, builds open-so
 :columns: 12 12 4 4
 
 ```{image} logo.png
-:alt: Jane Doe
+:alt: Qiusheng Wu
 :width: 95%
 ```
 
@@ -20,7 +20,7 @@ description: Jane Doe, Assistant Professor at Example University, builds open-so
 :::{grid-item}
 :columns: 12 12 8 8
 
-**Software Engineer** | **Data Scientist**
+**Associate Professor** | **Amazon Scholar**
 
 [Department of Computer Science](https://example.com/cs), Example University
 

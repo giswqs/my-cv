@@ -1,6 +1,6 @@
 ---
 title: Software
-description: Open-source software projects created and maintained by Jane Doe.
+description: Open-source software projects created and maintained by Qiusheng Wu.
 keywords:
   - Open-source Software
   - Python
