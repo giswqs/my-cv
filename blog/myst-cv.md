@@ -9,7 +9,7 @@ MyST CV is a tool for creating CVs using MyST Markdown. It is a simple tool that
 ## Features
 
 - Create CVs using MyST Markdown
-- Create CVs using MyST Markdown    
+- Create CVs using MyST Markdown
 
 
 ## Installation
