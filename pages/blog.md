@@ -27,7 +27,7 @@ Thoughts on data science, open-source software, and teaching.
 :::{card} MyST CV
 :link: /blog/myst-cv
 April 10, 2026 -- A test of the MyST CV. MyST CV is a tool for creating CVs using MyST Markdown. It is a simple tool that allows you to create CVs using MyST Markdown.
-::: 
+:::
 
 :::{card} Getting Started with MyST Markdown for Academic Websites
 :link: /blog/sample-post
